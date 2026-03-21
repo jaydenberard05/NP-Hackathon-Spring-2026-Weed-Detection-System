@@ -1,3 +1,5 @@
+Jayden Berard
+
 # NP-Hackathon-Spring-2026-Weed-Detection-System
 
 ### What global issue does your project attempt to address?
@@ -14,3 +16,6 @@ Many challenges were faced making this project which would explaing its very bar
 
 ### What’s next for your project?
 What I dream of for this project if I ever get the free time is to tweak it more till it is accurate enough to full detect many different types of weeds that can heavily effect crop growth and to either have this program be able to run on a mobile device for much more accessibility and more features to give a much more incentive to use.
+
+### If you used any AI tools, where and how did you use them?
+The only use that AI brought was the research aspect of finding a problem to solve from the AI overview by gemini to get an idea
