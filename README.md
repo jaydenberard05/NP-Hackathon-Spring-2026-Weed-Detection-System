@@ -22,6 +22,6 @@ The only use that AI brought was the research aspect of finding a problem to sol
 
 # Tool List
 <img width="690" height="362" alt="LabelStudioLogo" src="https://github.com/user-attachments/assets/ced7ea98-6548-4cb5-bcfb-df5bda8b1842" />
-<img width="636" height="392" alt="GoogleColabLogo" src="https://github.com/user-attachments/assets/c8a88031-2e78-4724-bbf8-d170fb3b089e" />
-<img width="1024" height="538" alt="JupyterLogo" src="https://github.com/user-attachments/assets/acfde116-d305-49e5-adcc-2b98e94df7a4" />
+<img width="690" height="362" alt="GoogleColabLogo" src="https://github.com/user-attachments/assets/c8a88031-2e78-4724-bbf8-d170fb3b089e" />
+<img width="690" height="362" alt="JupyterLogo" src="https://github.com/user-attachments/assets/acfde116-d305-49e5-adcc-2b98e94df7a4" />
 
